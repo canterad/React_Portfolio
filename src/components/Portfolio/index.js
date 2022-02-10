@@ -13,7 +13,7 @@ function Portfolio() {
     },
     {
       name: 'Note-Taker',
-      description: 'Express',
+      description: 'Express.js',
       link: "https://limitless-sea-65100.herokuapp.com/",
       repo: "https://github.com/canterad/Note_Taker.git"
     },
