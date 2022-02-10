@@ -5,7 +5,7 @@ function Resume() {
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a href="https://github.com/canterad/React_Portfolio/tree/src/assets/cover/DuaneCanteraResume2021.pdf" 
+        Download my <a href="https://github.com/canterad/React_Portfolio/blob/main/src/assets/cover/DuaneCanteraResume2021.pdf" 
                         target="_blank" rel="noopener noreferrer">resume</a>
         </p>
         <h3>Front-end Proficiencies</h3>
