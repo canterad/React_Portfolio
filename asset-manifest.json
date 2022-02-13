@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React_Portfolio.git/static/css/main.fc497156.css",
-    "main.js": "/React_Portfolio.git/static/js/main.d2051d95.js",
-    "static/media/cover-image.jpg": "/React_Portfolio.git/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
-    "static/media/Tech-Blog.jpg": "/React_Portfolio.git/static/media/Tech-Blog.392c9e47d52bf69e854c.jpg",
-    "static/media/Duane.jpg": "/React_Portfolio.git/static/media/Duane.180be37e0069f82d8892.jpg",
-    "static/media/Weather-Dashboard.jpg": "/React_Portfolio.git/static/media/Weather-Dashboard.5a37fe50ca871250c9ee.jpg",
-    "static/media/Note-Taker.jpg": "/React_Portfolio.git/static/media/Note-Taker.9787ad1392ca4afb9b55.jpg",
-    "static/media/WorkDay-Scheduler.jpg": "/React_Portfolio.git/static/media/WorkDay-Scheduler.c0c70ad9551333c632bf.jpg",
-    "static/media/Coding-Quiz.jpg": "/React_Portfolio.git/static/media/Coding-Quiz.3d3c8f49c9e97e025cea.jpg",
-    "static/media/Password-Generator.jpg": "/React_Portfolio.git/static/media/Password-Generator.5002ee314c19ca42c328.jpg",
-    "index.html": "/React_Portfolio.git/index.html",
-    "main.fc497156.css.map": "/React_Portfolio.git/static/css/main.fc497156.css.map",
-    "main.d2051d95.js.map": "/React_Portfolio.git/static/js/main.d2051d95.js.map"
+    "main.css": "/my-app/static/css/main.fc497156.css",
+    "main.js": "/my-app/static/js/main.3521d95b.js",
+    "static/media/cover-image.jpg": "/my-app/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "static/media/Tech-Blog.jpg": "/my-app/static/media/Tech-Blog.392c9e47d52bf69e854c.jpg",
+    "static/media/Duane.jpg": "/my-app/static/media/Duane.180be37e0069f82d8892.jpg",
+    "static/media/Weather-Dashboard.jpg": "/my-app/static/media/Weather-Dashboard.5a37fe50ca871250c9ee.jpg",
+    "static/media/Note-Taker.jpg": "/my-app/static/media/Note-Taker.9787ad1392ca4afb9b55.jpg",
+    "static/media/WorkDay-Scheduler.jpg": "/my-app/static/media/WorkDay-Scheduler.c0c70ad9551333c632bf.jpg",
+    "static/media/Coding-Quiz.jpg": "/my-app/static/media/Coding-Quiz.3d3c8f49c9e97e025cea.jpg",
+    "static/media/Password-Generator.jpg": "/my-app/static/media/Password-Generator.5002ee314c19ca42c328.jpg",
+    "index.html": "/my-app/index.html",
+    "main.fc497156.css.map": "/my-app/static/css/main.fc497156.css.map",
+    "main.3521d95b.js.map": "/my-app/static/js/main.3521d95b.js.map"
   },
   "entrypoints": [
     "static/css/main.fc497156.css",
-    "static/js/main.d2051d95.js"
+    "static/js/main.3521d95b.js"
   ]
 }
